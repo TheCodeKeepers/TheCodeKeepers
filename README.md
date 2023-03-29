@@ -1,6 +1,8 @@
 ## This Is The Way !!<img src="https://user-images.githubusercontent.com/119304984/228403036-47ea62de-63f5-4227-8521-513cf38d3f51.gif" width="96px" height="96px" alt="hi">
 
 #### I'm Fayçal Bouslahi a Full Stack Web Developer that deals mostly with JavaScipt and process and people managment. I've benn doing JavaScript fo quite a while now and i come from a Java backgroud.
+<b>☎️ Contact</b>
+
 
 <!-- GitHub Statistics -->
 

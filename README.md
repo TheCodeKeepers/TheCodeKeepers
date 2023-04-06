@@ -17,6 +17,8 @@
 
 <b>🔥 Favorite Technologies</b>
 
+[![Javascript Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&labelColor=white&logo=spring&logoColor=6DB33F)](https://github.com/Faycel-Bouslahi?tab=repositories&q=&type=&language=java) 
+
 <!--
 **Faycel-Bouslahi/Faycel-Bouslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,12 @@
 ## This Is The Way !!<img src="https://user-images.githubusercontent.com/119304984/228403036-47ea62de-63f5-4227-8521-513cf38d3f51.gif" width="96px" height="96px" alt="hi">
 
 #### I'm Fayçal Bouslahi a Full Stack Web Developer that deals mostly with JavaScipt and process and people managment. I've benn doing JavaScript foR quite a while now and i come from a Java backgroud.
-<b>☎️ Contact</b>
+
+<!-- Contact -->
+
+<!-- <b>☎️ Contact</b> -->
+
+##### [:mailbox: faycel.bouslahi@me.com](mailto:faycel.bouslahi@me.com) · [🌐 faycelbouslahi.com](https://faycelbouslahi.com) · [👔 LinkedIn](https://www.linkedin.com/in/faycel-bouslahi/) ·  [📝 Curriculum Vitae](https://faycelbouslahi.com/resume_faycel.pdf)
 
 
 <!-- GitHub Statistics -->

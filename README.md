@@ -17,7 +17,7 @@
 
 <b>🔥 Favorite Technologies</b>
 
-[![Javascript Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&labelColor=white&logo=spring&logoColor=6DB33F)](https://github.com/Faycel-Bouslahi?tab=repositories&q=&type=&language=java) 
+[![Java Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&labelColor=white&logo=spring&logoColor=6DB33F)](https://github.com/Faycel-Bouslahi?tab=repositories&q=&type=&language=java) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031)](https://github.com/Faycel-Bouslahi?tab=repositories&q=&type=&language=angular) [![Node Js Badge](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&labelColor=white&logo=nodedotjs&logoColor=339933)](https://github.com/Faycel-Bouslahi?tab=repositories&q=&type=&language=Nodejs) 
 
 <!--
 **Faycel-Bouslahi/Faycel-Bouslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

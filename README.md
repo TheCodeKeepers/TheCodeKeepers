@@ -5,8 +5,8 @@
 
 <p> 
   
-  I'm Fayçal Bouslahi a Full Stack Web Developer dealing mostly with Java and JavaScipt, process and people managment. I've benn doing JavaScript 
-  for quite a while now and i come from a Java backgroud.
+  I'm Fayçal Bouslahi a Full Stack Web Developer dealing mostly with Java, JavaScipt, process and people managment. I've benn doing Java and JavaScript 
+  for quite a while now and i am obsessed with the idea of improving myself and wants challenging tasks to grow and excel.
  
 </p>
 
@@ -31,6 +31,10 @@
 <br>
 
 <b>⚙️ My GitHub Statistics</b>
+
+<a href="https://github.com/Faycel-Bouslahi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycel-Bouslahi&show_icons=true&theme=react&hide_langs_below=1" />
+</a>
 
 <a href="https://github.com/Faycel-Bouslahi">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react" alt="Faycel's github stats"/>

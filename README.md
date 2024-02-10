@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/Faycel-Bouslahi/Faycel-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Fun-with-DS-and-Algo&show_icons=true&theme=react" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-DS-and-Algo&show_icons=true&theme=react" />
 </a>
 
 <!--

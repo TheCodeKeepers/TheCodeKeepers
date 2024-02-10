@@ -33,7 +33,7 @@
 <b>⚙️ My GitHub Statistics</b>
 
 <a href="https://github.com/Faycel-Bouslahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycel-Bouslahi&show_icons=true&theme=react&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycel-Bouslahi&show_icons=true&theme=react" />
 </a>
 
 <a href="https://github.com/Faycel-Bouslahi">

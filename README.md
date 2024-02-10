@@ -43,7 +43,7 @@
  <!-- Repo to make a pin -->
  
 <a href="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-Bouslahi&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/pin/?username=Faycel-Bouslahi&repo=Faycel-Bouslahi&theme=react" />
 </a>
 
 <a href="https://github.com/Faycel-Bouslahi/Faycel-DS-and-Algo">

@@ -32,8 +32,9 @@
 
 <b>⚙️ My GitHub Statistics</b>
 
-![Fayçal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react)
-
+<a href="https://github.com/Faycel-Bouslahi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react" alt="Faycel's github stats"/>
+</a>
 <!--
 **Faycel-Bouslahi/Faycel-Bouslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

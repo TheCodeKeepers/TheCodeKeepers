@@ -3,8 +3,12 @@
 
 <img align="right" alt="Master" src="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi/blob/main/Assets/maitre.gif" />
 
-#### I'm Fayçal Bouslahi a Full Stack Web Developer dealing mostly with JavaScipt, process and people managment. I've benn doing JavaScript for quite a while now and i come from a Java backgroud.
-
+<p> 
+  
+  I'm Fayçal Bouslahi a Full Stack Web Developer dealing mostly with JavaScipt, process and people managment. I've benn doing JavaScript 
+  for quite a while now and i come from a Java backgroud.
+ 
+</p>
 
 
 <!-- Contact -->
@@ -14,6 +18,7 @@
 ##### [:mailbox: faycel.bouslahi@me.com](mailto:faycel.bouslahi@me.com) · [🌐 faycelbouslahi.com](https://faycelbouslahi.com) · [👔 LinkedIn](https://www.linkedin.com/in/faycel-bouslahi/) · [📝 Curriculum Vitae](https://faycelbouslahi.com/resume_faycel.pdf)
 
 <!-- My Stack -->
+<br>
 
 <b>🔥 Tech I work on </b>
 
@@ -23,6 +28,7 @@
 
 
 <!-- GitHub Statistics -->
+<br>
 
 <b>⚙️ My GitHub Statistics</b>
 

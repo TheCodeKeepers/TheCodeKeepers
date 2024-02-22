@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react" alt="Faycel's github stats"/>
 </a>
 
- <!-- Repo to make a pin -->
+ <!-- Repos to make as pin -->
  
 <a href="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-Bouslahi&theme=react" />
@@ -49,6 +49,15 @@
 <a href="https://github.com/Faycel-Bouslahi/Faycel-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-DS-and-Algo&theme=react" />
 </a>
+
+<br>
+
+<!-- This is the way -->
+<br>
+<a href="https://github.com/Faycel-Bouslahi">
+<img align="middle" src="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi/blob/main/Assets/mando.walk.coding.gif" alt="This is the way">
+</a>
+
 
 <!--
 **Faycel-Bouslahi/Faycel-Bouslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

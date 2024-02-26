@@ -32,21 +32,21 @@
 
 <b>⚙️ My GitHub Statistics</b>
 
-<a href="https://github.com/Faycel-Bouslahi">
+<a href="https://github.com/TheCodeKeepers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycel-Bouslahi&show_icons=true&theme=react" />
 </a>
 
-<a href="https://github.com/Faycel-Bouslahi">
+<a href="https://github.com/TheCodeKeepers">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react" alt="Faycel's github stats"/>
 </a>
 
  <!-- Repos to make as pin -->
  
-<a href="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi">
+<a href="https://github.com/TheCodeKeepers/TheCodeKeepers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-Bouslahi&theme=react" />
 </a>
 
-<a href="https://github.com/Faycel-Bouslahi/Faycel-DS-and-Algo">
+<a href="https://github.com/TheCodeKeepers/Faycel-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-DS-and-Algo&theme=react" />
 </a>
 
@@ -54,7 +54,7 @@
 
 <!-- This is the way -->
 <br>
-<a href="https://github.com/Faycel-Bouslahi">
+<a href="https://github.com/TheCodeKeepers">
 <img align="middle" src="https://github.com/Faycel-Bouslahi/Faycel-Bouslahi/blob/main/Assets/mando.walk.coding.gif" alt="This is the way">
 </a>
 

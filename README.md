@@ -33,17 +33,17 @@
 <b>⚙️ My GitHub Statistics</b>
 
 <a href="https://github.com/TheCodeKeepers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycel-Bouslahi&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeKeepers&show_icons=true&theme=react" />
 </a>
 
 <a href="https://github.com/TheCodeKeepers">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faycel-Bouslahi&show_icons=true&theme=react" alt="Faycel's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCodeKeepers&show_icons=true&theme=react" alt="Faycel's github stats"/>
 </a>
 
  <!-- Repos to make as pin -->
  
 <a href="https://github.com/TheCodeKeepers/TheCodeKeepers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faycel-Bouslahi&repo=Faycel-Bouslahi&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCodeKeepers&repo=Faycel-Bouslahi&theme=react" />
 </a>
 
 <a href="https://github.com/TheCodeKeepers/Faycel-DS-and-Algo">

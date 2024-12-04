@@ -5,7 +5,8 @@
 
 <p> 
   
-  I'm Fayçal Bouslahi a Full Stack Web Developer dealing mostly with Java, JavaScipt, process and people managment. I've benn doing Java and JavaScript 
+  I'm Fayçal Bouslahi a Senior Software Developer and instructor teaching others valuable software development skills, help them break into the tech industry, and 
+advance their careers, dealing mostly with Java, JavaScipt, process and people managment. I've benn doing Java and JavaScript 
   for quite a while now and i am obsessed with the idea of improving myself and wants challenging tasks to grow and excel.
  
 </p>
